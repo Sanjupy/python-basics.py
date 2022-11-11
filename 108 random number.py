@@ -2,7 +2,7 @@ import random
 n=int(random.random())
 print(n)
 
-from random import randint
+import random
 
 random_number = random.randint(1, 666)
 
